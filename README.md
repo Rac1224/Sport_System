@@ -1,1 +1,4 @@
-# Sport_System
+# Sport Tracker System
+
+## Programming Language:
+Python
